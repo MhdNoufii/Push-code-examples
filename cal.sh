@@ -5,4 +5,11 @@
 # Am going to add Break Fast
 
 # After added brreakfast am going to Lunch 
+
 lunch=1
+
+# After adding Snacks 
+
+snacks=4
+
+
