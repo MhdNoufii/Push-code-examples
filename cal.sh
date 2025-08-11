@@ -19,3 +19,7 @@ divison=100
 # Adding Rebase functions here
 
 rebase=101010
+
+# Merging Comments here 
+
+merge=$lunch + $snacks 
